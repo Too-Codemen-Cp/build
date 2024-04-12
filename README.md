@@ -1,5 +1,10 @@
 # Сервис поиска музейных предметов по фотографии
 
+## Стек технологий
+
+Backend: Flask, YOLO
+Frontend: React
+
 ## Backend
 [Ссылка](https://github.com/Too-Codemen-Cp/backend)
 
