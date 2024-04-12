@@ -2,8 +2,8 @@
 
 ## Стек технологий
 
-Backend: Flask, YOLO
-Frontend: React
+- __Backend:__ Flask, YOLO
+- __Frontend:__ React
 
 ## Backend
 [Ссылка](https://github.com/Too-Codemen-Cp/backend)
