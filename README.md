@@ -2,7 +2,7 @@
 
 ## Стек технологий
 
-- __Backend:__ Flask, YOLO
+- __Backend:__ Flask, Roboflow
 - __Frontend:__ React
 
 ## Backend
